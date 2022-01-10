@@ -1,0 +1,7 @@
+package com.te.basicthread;
+
+public class DeadLock {
+public static void main(String[] args) {
+	
+}
+}

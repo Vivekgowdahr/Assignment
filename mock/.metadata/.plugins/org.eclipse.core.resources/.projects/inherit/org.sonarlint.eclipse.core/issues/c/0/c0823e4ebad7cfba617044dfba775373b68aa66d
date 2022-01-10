@@ -1,0 +1,12 @@
+
+b
+java:S1905"*Remove this unnecessary cast to "Univers".(™¤²ìÿÿÿÿÿ8¼÷Ê—İ/HØRMINORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "obj5" local variable.(ÃåÊîøÿÿÿÿ8‹şÃ‹İ/HÒRMINORZ
+CODE_SMELL
+p
+java:S1854"8Remove this useless assignment to local variable "obj5".(ÃåÊîøÿÿÿÿ8‹şÃ‹İ/HÑRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(¹›¨æùÿÿÿÿ8‹şÃ‹İ/HÔRMAJORZ
+CODE_SMELL

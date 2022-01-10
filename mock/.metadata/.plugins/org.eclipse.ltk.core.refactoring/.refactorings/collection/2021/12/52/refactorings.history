@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;collection.Hashmapnew&apos; to &apos;Hashmapnew1&apos;&#x0D;&#x0A;- Original project: &apos;collection&apos;&#x0D;&#x0A;- Original element: &apos;collection.Hashmapnew&apos;&#x0D;&#x0A;- Renamed element: &apos;collection.Hashmapnew1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Hashmapnew&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;collection{Hashmap.java[Hashmapnew" matchStrategy="1" name="Hashmapnew1" qualified="false" references="true" similarDeclarations="false" stamp="1640005328170" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+package com.te.string;
+
+import java.util.Scanner;
+
+public class SplitingString {
+public static void main(String[] args) {
+	Scanner scanner = new Scanner(System.in);
+}
+}

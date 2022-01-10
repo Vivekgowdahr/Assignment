@@ -1,0 +1,10 @@
+package com.te.exceptionall;
+
+import java.util.Scanner;
+
+public class Student {
+public static void main(String[] args) throws BelowAverage {
+	Scanner a=new Scanner(System.in);
+	int b=a.nextInt();
+}
+}

@@ -1,0 +1,7 @@
+
+T
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ8Øá”Òß/HÍRMINORZ
+CODE_SMELL
+„
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¤€ˆ8»Ø Òß/HÏRMAJORZ
+CODE_SMELL

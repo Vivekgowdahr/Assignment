@@ -1,0 +1,9 @@
+package com.te.string;
+
+import java.util.Scanner;
+
+public class ReverStrWithInbilt {
+public static void main(String[] args) {
+	Scanner a = new Scanner(System.in);
+}
+}

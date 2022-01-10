@@ -1,0 +1,12 @@
+package com.te.exceptionall;
+
+public class Reselt {
+	private String name;
+	private int marks;
+	 
+	public Reselt() throws BelowAverage {
+		
+	}
+	
+
+}

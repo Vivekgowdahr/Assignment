@@ -1,0 +1,19 @@
+
+`
+java:S1656"/Remove or correct this useless self-assignment.(½á‰£úÿÿÿÿ8–Ë˜ºŞ/HÕ
+RMAJORZBUG
+š
+java:S4165"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ8–Ë˜ºŞ/HØ
+RMAJORZ
+CODE_SMELL
+a
+java:S1172"/Remove these unused method parameters "b", "c".(õÍS8•—³ºŞ/H÷
+RMAJORZ
+CODE_SMELL
+`
+java:S1656"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿ8–Ë˜ºŞ/HÖ
+RMAJORZBUG
+›
+java:S4165"cRemove this useless assignment; "marks" already holds the assigned value along all execution paths.(½á‰£úÿÿÿÿ8–Ë˜ºŞ/H×
+RMAJORZ
+CODE_SMELL

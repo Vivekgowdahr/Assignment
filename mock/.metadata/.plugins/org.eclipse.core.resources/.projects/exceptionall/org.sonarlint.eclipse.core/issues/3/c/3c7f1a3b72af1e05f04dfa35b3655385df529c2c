@@ -1,0 +1,9 @@
+
+r
+java:S1854":Remove this useless assignment to local variable "reselt".(íŸ³µýÿÿÿÿ8ÛÏ³ºÞ/Hý
+RMAJORZ
+CODE_SMELL
+c
+java:S1481"+Remove this unused "reselt" local variable.(íŸ³µýÿÿÿÿ8ÛÏ³ºÞ/Hþ
+RMINORZ
+CODE_SMELL

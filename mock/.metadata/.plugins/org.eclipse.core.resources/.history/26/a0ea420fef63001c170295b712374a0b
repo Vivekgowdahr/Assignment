@@ -1,0 +1,26 @@
+package com.te.exceptionall;
+
+public class VoterID {
+
+	//Fields
+	private String name;
+	private int age;
+	
+	
+	
+
+		public VoterID(String name, int age) throws BelowAge{
+	
+		this.name = name;
+		this.age = age;
+	}
+		}
+	}
+	
+	//methods
+	public void votes() {
+	}
+	public void nota() {
+		
+	}
+}

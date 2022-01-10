@@ -1,0 +1,19 @@
+package com.te.string;
+
+import java.util.Scanner;
+
+public class ReverStrWithInbilt {
+public static void main(String[] args) {
+	Scanner a = new Scanner(System.in);
+	System.out.println("Enter the string");
+	String b=a.nextLine();
+	StringBuffer stringBuffer = new StringBuffer();
+	System.out.println(stringBuffer.reverse());
+	if (b.equals(stringBuffer)) {
+		System.out.println("it is pallindrome");
+	} else {
+		System.out.println("it is not pallindrome");
+	}
+	
+}
+}

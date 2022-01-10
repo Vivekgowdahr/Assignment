@@ -1,0 +1,7 @@
+
+m
+java:S1854";Remove this useless assignment to local variable "voterID".(ß‚‰_8³ÿ¶¶Þ/HÈRMAJORZ
+CODE_SMELL
+^
+java:S1481",Remove this unused "voterID" local variable.(ß‚‰_8³ÿ¶¶Þ/HÉRMINORZ
+CODE_SMELL

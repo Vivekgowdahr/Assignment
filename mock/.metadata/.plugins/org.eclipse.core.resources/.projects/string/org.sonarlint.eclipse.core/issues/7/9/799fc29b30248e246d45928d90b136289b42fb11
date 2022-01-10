@@ -1,0 +1,9 @@
+
+Y
+java:S1481
+"&Remove this unused "c" local variable.(ä÷áµ8ù²——Ý/H½RMINORZ
+CODE_SMELL
+h
+java:S1854
+"5Remove this useless assignment to local variable "c".(ä÷áµ8ù²——Ý/H¼RMAJORZ
+CODE_SMELL

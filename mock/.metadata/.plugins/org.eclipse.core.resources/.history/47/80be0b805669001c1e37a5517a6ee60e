@@ -1,0 +1,5 @@
+package com.te.basicthread;
+
+public class DeadLock {
+
+}

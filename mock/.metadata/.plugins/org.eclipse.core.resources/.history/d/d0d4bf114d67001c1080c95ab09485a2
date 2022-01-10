@@ -1,0 +1,9 @@
+package collection;
+
+public class MainList {
+
+	Object [] array;
+	int position;
+		
+		
+	}

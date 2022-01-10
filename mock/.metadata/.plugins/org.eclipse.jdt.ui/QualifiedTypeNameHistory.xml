@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.te.upcasting.Galaxy"/>
+    <fullyQualifiedTypeName name="com.te.upcasting.MilkeyWay"/>
+    <fullyQualifiedTypeName name="com.te.upcasting.SolarSystem"/>
+    <fullyQualifiedTypeName name="com.te.upcasting.Earth"/>
+    <fullyQualifiedTypeName name="com.te.upcasting.Moon"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="com.te.upcasting.Univers"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="collection.Hashmap"/>
+    <fullyQualifiedTypeName name="com.te.string.InputOutput"/>
+    <fullyQualifiedTypeName name="com.te.exceptionall.Animal"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.te.exceptionall.Reselt"/>
+    <fullyQualifiedTypeName name="com.te.exceptionall.BelowAge"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.te.basicthread.MyThread"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="com.te.steamapi.Employe"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>

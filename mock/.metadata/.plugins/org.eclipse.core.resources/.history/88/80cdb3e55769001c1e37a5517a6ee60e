@@ -1,0 +1,14 @@
+package com.te.basicthread;
+import java.util.*;
+public class DeadLock {
+public static void main(String[] args) {
+	String s="vivek";
+	String s2="Virat";
+	
+	Thread t1 = new Thread(){
+	
+	public void run() {
+	}	
+};
+}
+}

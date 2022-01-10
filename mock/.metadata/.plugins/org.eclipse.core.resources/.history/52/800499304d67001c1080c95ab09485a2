@@ -1,0 +1,17 @@
+package collection;
+
+public class MainList {
+
+	Object [] array;
+	int position;
+	
+	public void MainList(int size) {
+		array=new Object[size];
+	}
+	
+	public void add(object obj) {
+		
+	}
+		
+		
+	}

@@ -1,0 +1,25 @@
+
+
+java:S22729"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(«ŞÄ•ùÿÿÿÿ8¿éŸÕà/H³RMINORZBUG
+…	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ù¿†şÿÿÿÿ8¿éŸÕà/H³RMINORZ
+CODE_SMELL
+Œ
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(°ä¾8¿éŸÕà/H´RMINORZ
+CODE_SMELL
+x
+java:S1994#"=Move the update of "position" into this loop's update clause.(œß…àûÿÿÿÿ8¿éŸÕà/HµRCRITICALZ
+CODE_SMELL
+g
+java:S3740("/Provide the parametrized type for this generic.(øÍøÿÿÿÿ8¿éŸÕà/H±RMAJORZ
+CODE_SMELL
+b
+java:S3740."/Provide the parametrized type for this generic.(ÆïéÕ8¿éŸÕà/HµRMAJORZ
+CODE_SMELL
+`
+java:S11255"(Remove the unnecessary boolean literals.(ç€Í»ùÿÿÿÿ8¿éŸÕà/H¶RMINORZ
+CODE_SMELL
+„
+java:S1223
+"LRename this method to prevent any misunderstanding or make it a constructor.(€Ù¿†şÿÿÿÿ8¿éŸÕà/H»RMAJORZ
+CODE_SMELL
